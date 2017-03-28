@@ -1,0 +1,2 @@
+baseurl: /akg
+exclude: ['README.md']
