@@ -1,1 +1,5 @@
 _site
+
+# Hidden files
+.DS_Store
+._*
