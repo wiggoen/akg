@@ -2,12 +2,12 @@
 Website update
 
 ## TODO: ##
-- [ ] Cross platform testing
+### Cross platform testing ###
 	- [ ] Firefox
 	- [ ] Chromium
 	- [ ] Chrome
 	- [ ] Opera
 	- [ ] Edge
 	- [ ] Internet Explorer
-- [ ] Fix bugs
+### Fix bugs ###
 	- [ ] In several browsers, the X sign in the gallery moves with every new picture
